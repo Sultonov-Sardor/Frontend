@@ -1,0 +1,18 @@
+body{
+    background-color: ghostwhite;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+a{
+    color: lawngreen;
+}
+
+h1{
+    color: lawngreen;
+}
+
